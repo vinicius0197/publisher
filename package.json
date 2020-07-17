@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "netlify": "netlify deploy --dir=build",
-    "netlify-prod": "netlify deploy --prod"
+    "netlify-prod": "netlify deploy --prod --dir=build"
   },
   "author": "Vinicius C. Silva",
   "license": "ISC",

@@ -1,0 +1,3 @@
+# Dictionary
+
+some python tips
