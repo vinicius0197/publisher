@@ -1,4 +1,4 @@
-# This is a test file
+# Test file
 
 Some test content
 
