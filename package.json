@@ -1,0 +1,14 @@
+{
+  "name": "publisher",
+  "version": "1.0.0",
+  "description": "A utility tool for deploying markdown files into a searchable static website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius C. Silva",
+  "license": "ISC",
+  "dependencies": {
+    "showdown": "^1.9.1"
+  }
+}
